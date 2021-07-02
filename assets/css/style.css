@@ -1,5 +1,16 @@
 
 
+#loading{
+
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: #fff
+     no-repeat center
+    url('../img/preloder.gif');
+    z-index: 99999;
+  }
+
 
 @font-face {
   font-family: 'fontello';
