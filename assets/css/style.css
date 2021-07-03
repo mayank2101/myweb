@@ -142,8 +142,7 @@ textarea {
 /* LAYOUT
 ================================================== */
 html{
-    
-    overflow-x:hidden;
+    overflow-x: hidden;
 }
 html, body {
     width: 100%;
